@@ -57,6 +57,9 @@ You can request an app to be built. The following things can be converted into a
 - Github repoisitory
    
    
+   
+  [Feedbacks](https://github.com/App-ocalypse/App-ocalypse/issues/1)
+   
 # THANK YOU
 
 
