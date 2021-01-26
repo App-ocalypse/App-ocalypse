@@ -56,8 +56,7 @@ You can request an app to be built. The following things can be converted into a
 - Website (First page as per your wish_ Default: Home page)  
 - Github repoisitory
 
-        <span id="logo"></span>
-        <a href="https://github.com/App-ocalypse/App-ocalypse/issues/2" class="button fork"><strong>Request Build</strong></a>
+[![re](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/request.png)](https://github.com/App-ocalypse/App-ocalypse/issues/2)
 
    ---
    
