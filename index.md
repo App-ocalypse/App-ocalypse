@@ -1,4 +1,5 @@
 ## App-ocalypse
+#### by SparkScratch_P
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
 #### What if I say...
@@ -20,3 +21,7 @@ This organisation uses [nativefier](https://github.com/jiahaog/nativefier#native
 Join this organisation and create exciting apps and upload them here for public use!
 
 [![JOIn](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext374945416100715.png) ](https://github.com/App-ocalypse)
+
+#### On-demand Developers:
+- Mac and Lynux users of Node.js
+- Web-developers on MarkDown
