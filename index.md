@@ -2,6 +2,8 @@
 #### by SparkScratch_P
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
+Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse/App-ocalypse/blob/main/LICENSE)
+
 #### What if I say...
    All apps here'd survive the [app-ocalypse](https://techcrunch.com/2017/06/05/apples-idea-of-an-apocalypse-is-a-world-without-apps/)?
    
@@ -22,6 +24,18 @@ Join this organisation and create exciting apps and upload them here for public 
 
 [![JOIn](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext374945416100715.png) ](https://github.com/App-ocalypse)
 
+**For Developers** : All projects to be Licensed under GNU General Public License v3.0
+
 #### On-demand Developers:
 - Mac and Lynux users of Node.js
 - Web-developers on MarkDown
+
+# The Super-Exciting Collection of Apps
+
+**Currently No Apps Available**
+
+## Windows
+
+## Mac OS
+
+## Lynux
