@@ -56,12 +56,9 @@ You can request an app to be built. The following things can be converted into a
 - Website (First page as per your wish_ Default: Home page)  
 - Github repoisitory
 
-<div id="banner">
         <span id="logo"></span>
+        <a href="https://github.com/App-ocalypse/App-ocalypse/issues/2" class="button fork"><strong>Request Build</strong></a>
 
-        <a href="https://github.com/App-ocalypse/App-ocalypse" class="button fork"><strong>Request Build</strong></a>
-        
-      </div>
    ---
    
   [![Feedbacks](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/scars-to-your-beautiful-ford-festiva-karaoke-mp3-know-it-all-feedback-button-png-image-432119d4af9a5b77388892542b53f37c.png)](https://github.com/App-ocalypse/App-ocalypse/issues/1)
