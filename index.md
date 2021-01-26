@@ -27,15 +27,20 @@ Join this organisation and create exciting apps and upload them here for public 
 **For Developers** : All projects to be Licensed under GNU General Public License v3.0
 
 #### On-demand Developers:
-- Mac and Lynux users of Node.js
+- Mac and Linux users of Node.js
 - Web-developers on MarkDown
+- Conversion specialists:
+   - HTML to exe,app,love
+   - Sb3 to exe,app,love
 
 # The Super-Exciting Collection of Apps
 
-**Currently No Apps Available**
-
 ## Windows
+
+
 
 ## Mac OS
 
-## Lynux
+
+
+## Linux
