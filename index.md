@@ -11,7 +11,7 @@ Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse
   
   All apps that u get here will survive long!
   
-  Suppose everything in the world is destroyed.. and humans face an appocalypse! Github pages and repoisitories survive in the Arctic seed vault, but not active, even after thosands of years, if ever the seed valt is opened and reactivated on the web! these apps will 
+  Suppose everything in the world is destroyed.. and humans face an appocalypse! Github pages and repoisitories survive in the [Arctic Code Vault](https://archiveprogram.github.com/), but not active, even after thosands of years, if ever the Code Vault is opened and reactivated on the web! these apps will 
  run!
 
 #### This organisasion, **App-ocalypse** is maintained by [SparkScratch_P](https://sparkscratch-p.github.io/Home/)
@@ -55,10 +55,10 @@ You can request an app to be built. The following things can be converted into a
    - Leopard (Vercel Codesandbox web page URL required for ownership)
 - Website (First page as per your wish_ Default: Home page)  
 - Github repoisitory
+
+   ---
    
-   
-   
-  [Feedbacks](https://github.com/App-ocalypse/App-ocalypse/issues/1)
+  [![Feedbacks](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/scars-to-your-beautiful-ford-festiva-karaoke-mp3-know-it-all-feedback-button-png-image-432119d4af9a5b77388892542b53f37c.png)](https://github.com/App-ocalypse/App-ocalypse/issues/1)
    
 # THANK YOU
 
