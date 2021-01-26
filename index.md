@@ -45,3 +45,19 @@ ___
 
 ## Linux
 ---
+
+## Request Build
+---
+You can request an app to be built. The following things can be converted into a Windows application:
+- Scratch Projects (Cloud Variables connect with original scratch server) from following formats:
+   - Turbowrap
+   - Forkphorus
+   - Leopard (Vercel Codesandbox web page URL required for ownership)
+- Website (First page as per your wish_ Default: Home page)  
+- Github repoisitory
+   
+   
+# THANK YOU
+
+
+
