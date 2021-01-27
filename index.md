@@ -19,19 +19,7 @@ Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse
 
 This organisation uses [nativefier](https://github.com/jiahaog/nativefier#nativefier) by [jiahaog](https://jiahao.codes/)
 
-### Join this Organisation!
-Join this organisation and create exciting apps and upload them here for public use!
 
-[![JOIn](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext374945416100715.png) ](https://github.com/App-ocalypse)
-
-**For Developers** : All projects to be Licensed under GNU General Public License v3.0
-
-#### On-demand Developers:
-- Mac and Linux users of Node.js
-- Web-developers on MarkDown
-- Conversion specialists:
-   - HTML to exe,app,love
-   - Sb3 to exe,app,love
 
 # The Super-Exciting Collection of Apps
 ___
@@ -59,6 +47,27 @@ You can request an app to be built. The following things can be converted into a
 [![re](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/request.png)](https://github.com/App-ocalypse/App-ocalypse/issues/2)
 
    ---
+   
+   
+   ### Join this Organisation!
+Join this organisation and create exciting apps and upload them here for public use!
+
+[![JOIn](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext374945416100715.png) ](https://github.com/App-ocalypse)
+
+#### On-demand Developers:
+- Mac and Linux users of Node.js
+- Web-developers on MarkDown
+- Conversion specialists:
+   - HTML to exe,app,love
+   - Sb3 to exe,app,love
+   
+#### Developer's Decorum   
+
+It is a set of Guidelines all developers have to follow to upload apps in is organisation's web.
+
+
+
+---
    
   [![Feedbacks](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/scars-to-your-beautiful-ford-festiva-karaoke-mp3-know-it-all-feedback-button-png-image-432119d4af9a5b77388892542b53f37c.png)](https://github.com/App-ocalypse/App-ocalypse/issues/1)
    
