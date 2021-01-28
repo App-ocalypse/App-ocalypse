@@ -5,17 +5,16 @@
 
 Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse/App-ocalypse/blob/main/LICENSE)
 
-#### What if I say...
-###### All apps here'd survive the [app-ocalypse](https://techcrunch.com/2017/06/05/apples-idea-of-an-apocalypse-is-a-world-without-apps/)?
+#### What if I say... 
+
+   All apps here'd survive the [app-ocalypse](https://techcrunch.com/2017/06/05/apples-idea-of-an-apocalypse-is-a-world-without-apps/)?
   
-   
-###### But it's **true!**.
-  
-  
-###### All apps that u get here will survive long!
+   But it's **true!** .
   
   
-###### Suppose everything in the world is destroyed.. and humans face an appocalypse! Github pages and repoisitories survive in the [Arctic Code Vault](https://archiveprogram.github.com/), but not active, even after thosands of years, if ever the Code Vault is opened and reactivated on the web! these apps will run!
+  All apps that u get here will survive long!
+  
+  Suppose everything in the world is destroyed.. and humans face an appocalypse! Github pages and repoisitories survive in the [Arctic Code Vault](https://archiveprogram.github.com/), but not active, even after thosands of years, if ever the Code Vault is opened and reactivated on the web! these apps will run!
 
 
 #### This organisasion, **App-ocalypse** is maintained by [SparkScratch_P](https://sparkscratch-p.github.io/Home/)
